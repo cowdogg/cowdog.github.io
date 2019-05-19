@@ -1,6 +1,6 @@
 html,
 body {
-  height: 80%;
+  height: 100%;
 }
 
 body {
@@ -47,7 +47,7 @@ body {
   }
 
   .nav-masthead {
-    float: right;
+    float: center;
   }
 }
 
